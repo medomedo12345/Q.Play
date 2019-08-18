@@ -3,5 +3,5 @@ prefix=Q.
 game=Q.Play
 stayinchannel=true
 songinstatus=false
-token=NTUyNTQwMDI1OTY4MTMyMTA4.D2BAwQ.18NhFdcuLTXl-8F0cT7u6IcSZRA
+token=
 
